@@ -1,0 +1,27 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    display: flex;
+}
+.item {
+    padding: 50px;
+    flex-grow: 3;
+}
+
+p {
+    padding: 10px;
+    background-color: darkgray;
+    border: 3px solid black;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+#special {
+    min-width: 200px;
+}
+
+brendan {
+    font-weight: 800;
+}
+
